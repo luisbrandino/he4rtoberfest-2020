@@ -4,9 +4,9 @@
 
 **Nickname:** luisbrandino
 
-**Nível Técnico:** - Estudante -
+**Nível Técnico:** - Estudante
 
-**Dificuldade de Resolução:** - Baixa -
+**Dificuldade de Resolução:** - Baixa
 
 **Como rodar o desafio**: 
 
